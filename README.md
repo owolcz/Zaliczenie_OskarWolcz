@@ -1,0 +1,2 @@
+# Zaliczenie_OskarWolcz
+Zaliczenie przedmiotu Narzędzia wspierające wytwarzanie oprogramowania
